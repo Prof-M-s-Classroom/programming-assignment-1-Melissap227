@@ -4,7 +4,7 @@ from temperature import Temperature
 from stack import CircularStack
 
 # Define serial connection parameters
-COM_PORT = 'COM2'  # Update based on your system
+COM_PORT = 'COM4'  # Update based on your system
 BAUD_RATE = 9600
 
 
